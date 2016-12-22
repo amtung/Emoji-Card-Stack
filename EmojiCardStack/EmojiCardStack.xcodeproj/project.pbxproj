@@ -12,7 +12,6 @@
 		9CC587661E09D48F0077E629 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CC587651E09D48F0077E629 /* Assets.xcassets */; };
 		9CC587691E09D48F0077E629 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CC587671E09D48F0077E629 /* LaunchScreen.storyboard */; };
 		9CC587711E09D5950077E629 /* EmojiCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC587701E09D5950077E629 /* EmojiCard.swift */; };
-		9CC587731E09DC4F0077E629 /* EmojiDeckTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC587721E09DC4F0077E629 /* EmojiDeckTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		9CC587681E09D48F0077E629 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9CC5876A1E09D48F0077E629 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CC587701E09D5950077E629 /* EmojiCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiCard.swift; sourceTree = "<group>"; };
-		9CC587721E09DC4F0077E629 /* EmojiDeckTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiDeckTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +57,6 @@
 				9CC5875E1E09D48F0077E629 /* AppDelegate.swift */,
 				9CC587701E09D5950077E629 /* EmojiCard.swift */,
 				9CC587601E09D48F0077E629 /* EmojiCardViewController.swift */,
-				9CC587721E09DC4F0077E629 /* EmojiDeckTableViewController.swift */,
 				9CC587651E09D48F0077E629 /* Assets.xcassets */,
 				9CC587671E09D48F0077E629 /* LaunchScreen.storyboard */,
 				9CC5876A1E09D48F0077E629 /* Info.plist */,
@@ -142,7 +139,6 @@
 				9CC587711E09D5950077E629 /* EmojiCard.swift in Sources */,
 				9CC587611E09D48F0077E629 /* EmojiCardViewController.swift in Sources */,
 				9CC5875F1E09D48F0077E629 /* AppDelegate.swift in Sources */,
-				9CC587731E09DC4F0077E629 /* EmojiDeckTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +294,7 @@
 				9CC5876F1E09D48F0077E629 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
